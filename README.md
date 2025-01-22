@@ -1,133 +1,68 @@
-# Hi, I'm Solomon Demisse 👋
+# Hello, I'm Solomon Demisse👋
 
-### Software Engineer | Full Stack Developer | Java Expert
+### Full Stack Developer | Java Expert 
 
-Welcome to my GitHub profile! I'm a passionate and highly skilled software engineer with a strong background in both **front-end** and **back-end** development, specializing in **Java**, **Spring Boot**, and modern web technologies. I focus on building scalable, secure, and efficient applications. I am excited about learning new technologies and continuously improving my skills.
+Welcome to my GitHub profile! I'm a passionate software engineer with expertise in both **front-end** and **back-end** development. My main focus is on creating high-quality, scalable, and secure applications. I’m well-versed in **Java**, **Spring Framework**, **React.js**, **AWS**, and a variety of modern technologies. I'm also a firm believer in continuous learning and always exploring new ways to optimize and improve my skills.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 About Me
 
-### Back-End Development:
-- **Java** | **Spring Boot** | **Spring Security** | **Spring Data JPA** | **Hibernate**
-- **RESTful APIs** | **Microservices** | **GraphQL**
-- **Database Management**: PostgreSQL, MySQL, MongoDB, SQL Server
-- **Messaging & Queues**: RabbitMQ, Kafka
+I specialize in building **scalable and performant** web applications using a mix of **Java-based back-end technologies** and **modern JavaScript** frameworks. I enjoy working on **cloud-based solutions** and **data-driven projects**. Here’s a little bit more about me:
 
-### Front-End Development:
-- **HTML** | **CSS** | **JavaScript** | **TypeScript**
+- 🧑‍💻 I have a passion for building full-stack applications.
+- 🌱 I’m currently learning **Kubernetes**, **Data Science**, and **Reactive Programming**.
+- 💬 Ask me about **Spring Boot**, **Java**, **AWS**, **Docker**, **React.js**, .
+- 🎯 I’m open to freelance and full-time opportunities. Reach out to me if you're working on something exciting!
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Back-End Development
+![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=white)
+- **Java** | **Spring Boot** | **Spring Security** | **Spring Data JPA**
+- **Hibernate** | **Microservices** | **RESTful APIs** | **GraphQL**
+
+### Front-End Development
+![React](https://img.shields.io/badge/React-%2300D4D6.svg?style=flat-square&logo=react&logoColor=white)
 - **React.js** | **Angular** | **Vue.js**
-- **State Management**: Redux, Context API
-- **Material UI** | **Bootstrap** | **TailwindCSS**
+- **JavaScript** | **TypeScript** | **HTML** | **CSS** | **SASS**
+- **Redux** | **Material-UI** | **Bootstrap**
 
-### Cloud & DevOps:
-- **AWS** (EC2, S3, RDS, Lambda, EKS) | **Docker** | **Kubernetes**
-- **CI/CD**: Jenkins, GitHub Actions
-- **Terraform** | **Ansible**
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+- **AWS** 
+- **Docker** | **Kubernetes** | **CI/CD** | **Terraform**
 
-### Data Analytics & Tools:
-- **Apache Spark** | **Power BI** | **Jupyter Notebooks**
-- **Data Visualization**: Charts.js, D3.js
-
----
-
-## 💼 Work Experience
-
-### Senior Software Engineer | [Company Name] | [Date - Present]
-- Lead the design and implementation of scalable web applications using **Spring Boot** and **React.js**.
-- Architected microservices solutions to enable high performance and easy scaling in cloud environments like **AWS**.
-- Implemented RESTful APIs and integrated third-party APIs to support business requirements.
-- Enhanced security and authentication processes using **JWT** and **Spring Security**.
-- Collaborated with cross-functional teams to optimize UI/UX and improve the overall performance of applications.
-
-### Software Engineer | [Company Name] | [Date - Date]
-- Developed and maintained full-stack applications with **Java** (Spring Boot), **React.js**, and **MySQL**.
-- Participated in code reviews and refactoring to maintain a clean and scalable codebase.
-- Integrated cloud technologies like **AWS EC2** and **S3** for scalable infrastructure.
-- Wrote unit and integration tests using **JUnit**, **Mockito**, and **TestNG**.
-- Enhanced application performance and reduced load time by optimizing queries and refactoring back-end code.
+### Data Analytics
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
+- **Apache Spark** | **Jupyter Notebooks** | **Power BI**
 
 ---
 
-## 🚀 Projects
+## 💼 Projects
 
-### 1. [Project Name: Multi-Tenant SaaS Invoice Management System](https://github.com/your-username/invoice-management-system)
-- **Description**: A cloud-based, multi-tenant SaaS system designed to manage invoices for businesses with advanced data analytics and reporting capabilities.
+### 1. [Multi-Tenant SaaS Invoice Management System](https://github.com/your-username/invoice-management-system)
+- **Description**: A cloud-based multi-tenant system for managing invoices across different organizations, with built-in analytics and reporting capabilities.
 - **Tech Stack**: Java, Spring Boot, React.js, PostgreSQL, AWS, Docker, Kubernetes, Apache Spark
 - **Key Features**:
-  - Multi-tenant architecture with data isolation.
-  - Secure JWT-based authentication and role management.
-  - Real-time payment tracking and data analytics integration for insightful reports.
-  
-### 2. [Project Name: E-Commerce Web Application](https://github.com/your-username/ecommerce-web-app)
-- **Description**: A full-featured e-commerce application with payment gateway integration, real-time stock updates, and user authentication.
-- **Tech Stack**: Java, Spring Boot, React.js, MySQL, Stripe API, Docker
-- **Key Features**:
-  - User authentication with **JWT** and secure password hashing.
-  - Integration with **Stripe** for payment processing.
-  - Real-time stock updates using **WebSockets**.
+  - Multi-tenant support with isolated data.
+  - Secure **JWT** authentication and authorization.
+  - **Real-time payment tracking** and **data analytics** for insights.
+  - **Custom reports** with visualizations.
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🧑‍💻 Open Source Contributions
 
-- **Certified Spring Professional** – [Spring Professional Certification](https://www.spring.io/certification)
-- **AWS Certified Solutions Architect** – [AWS Certification](https://aws.amazon.com/certification/)
-- **Oracle Certified Professional Java SE 11 Developer** – [Oracle Certification](https://education.oracle.com/)
-- **Top Contributor** to [Java Open Source Project](https://github.com/your-username/open-source-project)
+I'm always looking for opportunities to contribute to open-source projects! Check out some of my contributions:
 
----
 
-## 🌱 Currently Learning
+## ⚡ Fun Fact
 
-- **Data Science & Analytics**: Exploring machine learning models and advanced data processing techniques.
-- **Kubernetes & Cloud-Native Architectures**: Improving my skills in managing cloud infrastructure and container orchestration.
-- **Reactive Programming** with **Spring WebFlux** and **Project Reactor**.
+I love learning new programming languages and experimenting with innovative technologies. In my spare time, you can find me exploring new cloud-native services, contributing to open-source projects, or experimenting with machine learning algorithms!
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
-
----
-
-## 🤝 Let's Connect
-
-- **LinkedIn**: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **Website/Blog**: [your-blog.com](https://your-blog.com)
-
----
-
-## 👨‍💻 Open-Source Contributions
-
-I actively contribute to several open-source projects. You can find my contributions [here](https://github.com/your-username?tab=contributions).
-
----
-
-## 📚 My Favorite Books & Resources
-
-- **Clean Code** by Robert C. Martin
-- **Effective Java** by Joshua Bloch
-- **Spring in Action** by Craig Walls
-- **Building Microservices** by Sam Newman
-
----
-
-## 🎓 Education
-
-- **Bachelor’s in Software Engineering** – [University Name] (Graduation Year)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-## 📅 Availability
-
-- Available for **freelance** and **full-time** opportunities.
-- Feel free to **contact me** if you're interested in collaboration, mentoring, or any exciting projects.
+> “The only way to do great work is to love what you do.” – Steve Jobs
