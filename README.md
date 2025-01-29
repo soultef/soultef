@@ -33,7 +33,7 @@ I specialize in building **scalable and performant** web applications using a mi
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 - **AWS** 
-- **Docker** | **Kubernetes** | **CI/CD** | **Terraform**
+- **Docker** | **Kubernetes** | **CI/CD** 
 
 ### Data Analytics
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
