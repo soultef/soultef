@@ -41,17 +41,4 @@ I specialize in building **scalable and performant** web applications using a mi
   - **Real-time payment tracking** and **data analytics** for insights.
   - **Custom reports** with visualizations.
 
----
-
-## 🧑‍💻 Open Source Contributions
-
-I'm always looking for opportunities to contribute to open-source projects! Check out some of my contributions:
-
-
-## ⚡ Fun Fact
-
-I love learning new programming languages and experimenting with innovative technologies. In my spare time, you can find me exploring new cloud-native services, contributing to open-source projects, or experimenting with machine learning algorithms!
-
----
-
 > “The only way to do great work is to love what you do.” – Steve Jobs
