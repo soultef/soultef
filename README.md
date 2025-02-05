@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with expertise 
 I specialize in building **scalable and performant** web applications using a mix of **Java-based back-end technologies** and **modern JavaScript** frameworks. I enjoy working on **cloud-based solutions** and **data-driven projects**. Here’s a little bit more about me:
 
 - 🧑‍💻 I have a passion for building full-stack applications.
-- 🌱 I’m currently learning **Kubernetes**, **Data Science**, and **Reactive Programming**.
 - 💬 Ask me about **Spring Boot**, **Java**, **AWS**, **Docker**, **React.js**, .
 - 🎯 I’m open to freelance and full-time opportunities. Reach out to me if you're working on something exciting!
 
@@ -22,30 +21,20 @@ I specialize in building **scalable and performant** web applications using a mi
 ### Back-End Development
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat-square&logo=java&logoColor=white)
 - **Java** | **Spring Boot** | **Spring Security** | **Spring Data JPA**
-- **Hibernate** | **Microservices** | **RESTful APIs** | **GraphQL**
+- **Hibernate** | **Microservices** | **RESTful APIs** 
 
 ### Front-End Development
 ![React](https://img.shields.io/badge/React-%2300D4D6.svg?style=flat-square&logo=react&logoColor=white)
-- **React.js** | **Angular** | **Vue.js**
+- **React.js** 
 - **JavaScript** | **TypeScript** | **HTML** | **CSS** | **SASS**
 - **Redux** | **Material-UI** | **Bootstrap**
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-- **AWS** 
-- **Docker** | **Kubernetes** | **CI/CD** 
-
-### Data Analytics
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)
-- **Apache Spark** | **Jupyter Notebooks** | **Power BI**
-
----
 
 ## 💼 Projects
 
 ### 1. [Multi-Tenant SaaS Invoice Management System](https://github.com/your-username/invoice-management-system)
 - **Description**: A cloud-based multi-tenant system for managing invoices across different organizations, with built-in analytics and reporting capabilities.
-- **Tech Stack**: Java, Spring Boot, React.js, PostgreSQL, AWS, Docker, Kubernetes, Apache Spark
+- **Tech Stack**: Java, Spring Boot, React.js, PostgreSQL, Kubernetes
 - **Key Features**:
   - Multi-tenant support with isolated data.
   - Secure **JWT** authentication and authorization.
